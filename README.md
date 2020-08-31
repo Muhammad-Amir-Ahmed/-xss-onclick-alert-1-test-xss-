@@ -1,1 +1,1 @@
-# <xss onclick="alert(1)">test</xss>
+# <xss onmouseover="alert(1)">test</xss>
